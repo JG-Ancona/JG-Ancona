@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Ancona)](https://github.com/JG-Ancona/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Ancona&layout=compact)](https://github.com/JG-Ancona/github-readme-stats)
 
 
 <!--
