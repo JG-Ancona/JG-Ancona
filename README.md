@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Ancona)](https://github.com/JG-Ancona/github-readme-stats)
+
+
 <!--
 **JG-Ancona/JG-Ancona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-Ancona)](https://github.com/JG-Ancona/github-readme-stats)
-----
+
 
 Here are some ideas to get you started:
 
