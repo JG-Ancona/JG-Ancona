@@ -1,6 +1,6 @@
-### Hello everyone! 
+# Hello everyone! 
 
-#### Welcome to my Github profile!
+#### Welcome to my Github profile
 
 ## About Me   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jgancona/)
 
